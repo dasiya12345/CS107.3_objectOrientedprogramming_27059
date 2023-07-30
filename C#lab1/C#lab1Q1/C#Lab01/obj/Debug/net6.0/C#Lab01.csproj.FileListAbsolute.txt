@@ -1,0 +1,14 @@
+C:\New folder\C#Lab01\C#Lab01\bin\Debug\net6.0\C#Lab01.exe
+C:\New folder\C#Lab01\C#Lab01\bin\Debug\net6.0\C#Lab01.deps.json
+C:\New folder\C#Lab01\C#Lab01\bin\Debug\net6.0\C#Lab01.runtimeconfig.json
+C:\New folder\C#Lab01\C#Lab01\bin\Debug\net6.0\C#Lab01.dll
+C:\New folder\C#Lab01\C#Lab01\bin\Debug\net6.0\C#Lab01.pdb
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\C#Lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\C#Lab01.AssemblyInfoInputs.cache
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\C#Lab01.AssemblyInfo.cs
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\C#Lab01.csproj.CoreCompileInputs.cache
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\C#Lab01.dll
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\refint\C#Lab01.dll
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\C#Lab01.pdb
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\C#Lab01.genruntimeconfig.cache
+C:\New folder\C#Lab01\C#Lab01\obj\Debug\net6.0\ref\C#Lab01.dll

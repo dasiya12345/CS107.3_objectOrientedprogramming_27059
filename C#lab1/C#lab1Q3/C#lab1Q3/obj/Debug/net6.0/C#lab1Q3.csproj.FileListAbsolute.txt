@@ -1,0 +1,14 @@
+C:\New folder\C#lab1Q3\C#lab1Q3\bin\Debug\net6.0\C#lab1Q3.exe
+C:\New folder\C#lab1Q3\C#lab1Q3\bin\Debug\net6.0\C#lab1Q3.deps.json
+C:\New folder\C#lab1Q3\C#lab1Q3\bin\Debug\net6.0\C#lab1Q3.runtimeconfig.json
+C:\New folder\C#lab1Q3\C#lab1Q3\bin\Debug\net6.0\C#lab1Q3.dll
+C:\New folder\C#lab1Q3\C#lab1Q3\bin\Debug\net6.0\C#lab1Q3.pdb
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\C#lab1Q3.GeneratedMSBuildEditorConfig.editorconfig
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\C#lab1Q3.AssemblyInfoInputs.cache
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\C#lab1Q3.AssemblyInfo.cs
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\C#lab1Q3.csproj.CoreCompileInputs.cache
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\C#lab1Q3.dll
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\refint\C#lab1Q3.dll
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\C#lab1Q3.pdb
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\C#lab1Q3.genruntimeconfig.cache
+C:\New folder\C#lab1Q3\C#lab1Q3\obj\Debug\net6.0\ref\C#lab1Q3.dll
